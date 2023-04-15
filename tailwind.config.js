@@ -38,7 +38,8 @@ export default {
   },
   plugins: [
     require("./src/theme/image.js"),
-    require("./src/theme/card.js")
+    require("./src/theme/card.js"),
+    require("./src/theme/navbar.js")
   ],
 }
 
